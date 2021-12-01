@@ -1,5 +1,5 @@
 body {
-  font-family: "Open Sans", sans-serif, arial, sans-serif;
+  font-family: "Open Sans", sans-serif, arial;
 }
 h1 {
   color: #878787;
@@ -63,16 +63,7 @@ li:first-letter {
   font-size: 16px;
   top: -34px;
 }
-.weather-temperature .active {
-  color: rgb(33, 33, 33);
-  cursor: default;
-}
-.units a {
-  text-decoration: none;
-}
-.weather-temperature .active:hover {
-  text-decoration: none;
-}
+
 .weather-forecast {
   margin-top: 20px;
   text-align: center;
